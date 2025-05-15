@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sivathekings)](https://git.io/streak-stats)
 
 
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nandhaxd&theme=blue-green&border_radius=10&ring=EB0E0E&background=000000&border=FFFFFF&fire=EB0000&currStreakNum=FFFFFF&sideNums=EBEBEB&stroke=EBD15C&currStreakLabel=6DEBE9&sideLabels=7AFF36&dates=8D85FF&excludeDaysLabel=EB16AF" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sivathekings&theme=blue-green&border_radius=10&ring=EB0E0E&background=000000&border=FFFFFF&fire=EB0000&currStreakNum=FFFFFF&sideNums=EBEBEB&stroke=EBD15C&currStreakLabel=6DEBE9&sideLabels=7AFF36&dates=8D85FF&excludeDaysLabel=EB16AF" alt="GitHub Streak" /></a>
